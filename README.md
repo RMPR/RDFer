@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Strctured data as inputs are once commonly expected to go through the strctured embedding neural functions, while in this repository we try to demonstrate the efficiency simply by re-arranging the structure of input data themselves. Plus, contradictory to the conventional impression that sequence to sequence pipelines were highly dependent on recurrent neural networks, our model makes a step by only adopting lite attention-based neural networks. We will see how it works here.
+Structured data as inputs are once commonly expected to go through the structured embedding neural functions, while in this repository we try to demonstrate the efficiency simply by re-arranging the structure of input data themselves. Plus, contradictory to the conventional impression that sequence to sequence pipelines were highly dependent on recurrent neural networks, our model makes a step by only adopting lite attention-based neural networks. We will see how it works here.
 
 ## Dependency
 
